@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **machine learning**.
 
-- 👨‍💻 All of my projects are available at 
-
 - 📫 How to reach me **camilosinning.cs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
