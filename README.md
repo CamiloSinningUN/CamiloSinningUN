@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camilosinningun&label=Profile%20views&color=0e75b6&style=flat" alt="camilosinningun" /> </p>
 
-- 🔭 I’m currently working on [educational predictive model](https://github.com/CamiloSinningUN/Secondary-education-predictive-model).
+- 🔭 I’m currently working on [Gran evento](https://github.com/CamiloSinningUN/Gran-Evento).
 
-- 🌱 I’m currently learning **machine learning**.
+- 🌱 I’m currently learning **React**.
 
 - 📫 How to reach me **camilosinning.cs@gmail.com**
 
