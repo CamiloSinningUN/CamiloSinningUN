@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camilosinningun&label=Profile%20views&color=0e75b6&style=flat" alt="camilosinningun" /> </p>
 
-- 🔭 I’m currently working on [Gran evento](https://github.com/CamiloSinningUN/Gran-Evento).
+- 🔭 I’m currently working on [Eyeland](https://github.com/Proyecto-Final-EPICS/EyeLand).
 
 - 🌱 I’m currently learning **React**.
 
