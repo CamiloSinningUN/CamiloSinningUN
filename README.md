@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/camilo-sinning-49613a241/hac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/camilo-sinning-49613a241/hac" height="30" width="40" /></a>
-<a href="https://camilosinningun.github.io" target="blank"><img align="center" src="https://github.com/CamiloSinningUN/CamiloSinningUN/assets/61607058/8da126b4-e0d8-4caf-83cd-0aa82a32e34a" alt="https://camilosinningun.github.io" height="30" width="40" /></a>
+<a href="https://camilosinningun.github.io" target="blank"><img align="center" src="https://github.com/CamiloSinningUN/CamiloSinningUN/assets/61607058/8da126b4-e0d8-4caf-83cd-0aa82a32e34a.png" alt="https://camilosinningun.github.io" height="30" width="40" /></a>
 <a href="https://kaggle.com/camilo sinning" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="camilo sinning" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@camilosinning_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@camilosinning_cs" height="30" width="40" /></a>
 </p>
