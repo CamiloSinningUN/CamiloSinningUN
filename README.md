@@ -11,3 +11,7 @@
 
 <h3 align="left">My portfolio: <a href="https://camilosinningun.github.io" target="blank">camilosinningun.github.io</a></h3>
 <h3 align="left">Connect with me on: <a href="https://www.linkedin.com/in/camilo-sinning-49613a241/" target="blank">LinkedIn</a></h3>
+
+<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=camilosinningun&theme=tokyonight-duo&hide_border=false)
